@@ -1,0 +1,9 @@
+Package: com.trc.keyboardx
+Name: KeyboardX
+Depends: firmware (>= 11.0), mobilesubstrate
+Version: 0.0.2
+Architecture: iphoneos-arm
+Description: Bring iPhone X Keyboard to older devices
+Maintainer: trc
+Author: trc
+Section: Tweaks
